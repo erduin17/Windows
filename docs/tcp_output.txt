@@ -1,0 +1,118 @@
+[System Process]	0	TCP	DESKTOP-31TBCHV	50234	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-31TBCHV	50236	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-31TBCHV	50239	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-31TBCHV	50241	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-31TBCHV	50243	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50257	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50258	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50259	ec2-54-187-46-234.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50260	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50261	ec2-54-187-46-234.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50263	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50264	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50266	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50269	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50270	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50272	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50273	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50274	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50275	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50276	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50277	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50278	a23-193-104-14.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50279	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50280	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50281	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50285	hi-bilc-bl4qlc2.ksd.edu	ms-do	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50287	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50288	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50289	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50290	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50291	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50292	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50293	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50295	ad-it-j8vqlc2.ksd.edu	ms-do	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50296	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50235	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50237	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50238	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50240	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50242	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50244	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50245	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50246	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50282	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCP	desktop-31tbchv.localdomain	50297	204.79.197.220	https	TIME_WAIT										
+dasHost.exe	3840	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+dasHost.exe	3840	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+dasHost.exe	3840	UDP	DESKTOP-31TBCHV	53270	*	*											
+dasHost.exe	3840	UDPV6	desktop-31tbchv	3702	*	*											
+dasHost.exe	3840	UDPV6	desktop-31tbchv	3702	*	*											
+dasHost.exe	3840	UDPV6	desktop-31tbchv	53271	*	*											
+firefox.exe	7528	TCP	DESKTOP-31TBCHV	50249	localhost	50250	ESTABLISHED										
+firefox.exe	7528	TCP	DESKTOP-31TBCHV	50250	localhost	50249	ESTABLISHED										
+firefox.exe	5660	TCP	DESKTOP-31TBCHV	50251	localhost	50252	ESTABLISHED										
+firefox.exe	5660	TCP	DESKTOP-31TBCHV	50252	localhost	50251	ESTABLISHED										
+firefox.exe	7528	TCP	desktop-31tbchv.localdomain	50254	66.119.205.13	http	ESTABLISHED										
+firefox.exe	3856	TCP	DESKTOP-31TBCHV	50255	localhost	50256	ESTABLISHED										
+firefox.exe	3856	TCP	DESKTOP-31TBCHV	50256	localhost	50255	ESTABLISHED										
+firefox.exe	7528	TCP	desktop-31tbchv.localdomain	50262	72.21.91.29	http	ESTABLISHED										
+firefox.exe	368	TCP	DESKTOP-31TBCHV	50267	localhost	50268	ESTABLISHED										
+firefox.exe	368	TCP	DESKTOP-31TBCHV	50268	localhost	50267	ESTABLISHED										
+lsass.exe	676	TCP	DESKTOP-31TBCHV	49695	DESKTOP-31TBCHV	0	LISTENING										
+lsass.exe	676	TCPV6	desktop-31tbchv	49695	desktop-31tbchv	0	LISTENING										
+services.exe	656	TCP	DESKTOP-31TBCHV	49668	DESKTOP-31TBCHV	0	LISTENING										
+services.exe	656	TCPV6	desktop-31tbchv	49668	desktop-31tbchv	0	LISTENING										
+spoolsv.exe	2208	TCP	DESKTOP-31TBCHV	49667	DESKTOP-31TBCHV	0	LISTENING										
+spoolsv.exe	2208	TCPV6	desktop-31tbchv	49667	desktop-31tbchv	0	LISTENING										
+svchost.exe	944	TCP	DESKTOP-31TBCHV	epmap	DESKTOP-31TBCHV	0	LISTENING										
+svchost.exe	4116	TCP	desktop-31tbchv.localdomain	5040	DESKTOP-31TBCHV	0	LISTENING										
+svchost.exe	1064	TCP	DESKTOP-31TBCHV	49665	DESKTOP-31TBCHV	0	LISTENING										
+svchost.exe	1720	TCP	DESKTOP-31TBCHV	49666	DESKTOP-31TBCHV	0	LISTENING										
+svchost.exe	2604	TCP	desktop-31tbchv.localdomain	49670	52.173.24.17	https	FIN_WAIT2										
+svchost.exe	2604	TCP	desktop-31tbchv.localdomain	50247	52.165.170.112	https	ESTABLISHED										
+svchost.exe	8616	TCP	desktop-31tbchv.localdomain	50271	a23-9-41-151.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+svchost.exe	6392	TCP	DESKTOP-31TBCHV	ms-do	DESKTOP-31TBCHV	0	LISTENING										
+svchost.exe	4028	UDP	DESKTOP-31TBCHV	ntp	*	*											
+svchost.exe	3900	UDP	DESKTOP-31TBCHV	ssdp	*	*											
+svchost.exe	3900	UDP	desktop-31tbchv.localdomain	ssdp	*	*											
+svchost.exe	3356	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+svchost.exe	3388	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+svchost.exe	3388	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+svchost.exe	3356	UDP	DESKTOP-31TBCHV	ws-discovery	*	*											
+svchost.exe	4116	UDP	DESKTOP-31TBCHV	5050	*	*											
+svchost.exe	1832	UDP	DESKTOP-31TBCHV	5353	*	*											
+svchost.exe	1832	UDP	DESKTOP-31TBCHV	llmnr	*	*											
+svchost.exe	2944	UDP	DESKTOP-31TBCHV	51124	*	*											
+svchost.exe	3900	UDP	desktop-31tbchv.localdomain	60540	*	*											
+svchost.exe	3900	UDP	DESKTOP-31TBCHV	60541	*	*											
+svchost.exe	3356	UDP	DESKTOP-31TBCHV	60542	*	*											
+svchost.exe	3388	UDP	DESKTOP-31TBCHV	61318	*	*											
+svchost.exe	944	TCPV6	[0:0:0:0:0:0:0:0]	epmap	[0:0:0:0:0:0:0:0]	0	LISTENING										
+svchost.exe	6392	TCPV6	desktop-31tbchv	ms-do	desktop-31tbchv	0	LISTENING										
+svchost.exe	1064	TCPV6	desktop-31tbchv	49665	desktop-31tbchv	0	LISTENING										
+svchost.exe	1720	TCPV6	desktop-31tbchv	49666	desktop-31tbchv	0	LISTENING										
+svchost.exe	4028	UDPV6	desktop-31tbchv	123	*	*											
+svchost.exe	1180	UDPV6	[fe80:0:0:0:1c3e:4f75:5d25:4b19]	546	*	*											
+svchost.exe	1180	UDPV6	[fe80:0:0:0:5916:2435:faca:b743]	546	*	*											
+svchost.exe	3900	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	3900	UDPV6	[fe80:0:0:0:5916:2435:faca:b743]	1900	*	*											
+svchost.exe	3356	UDPV6	desktop-31tbchv	3702	*	*											
+svchost.exe	3388	UDPV6	desktop-31tbchv	3702	*	*											
+svchost.exe	3356	UDPV6	desktop-31tbchv	3702	*	*											
+svchost.exe	3388	UDPV6	desktop-31tbchv	3702	*	*											
+svchost.exe	1832	UDPV6	desktop-31tbchv	5353	*	*											
+svchost.exe	1832	UDPV6	desktop-31tbchv	5355	*	*											
+svchost.exe	3900	UDPV6	[fe80:0:0:0:5916:2435:faca:b743]	60538	*	*											
+svchost.exe	3900	UDPV6	[0:0:0:0:0:0:0:1]	60539	*	*											
+svchost.exe	3356	UDPV6	desktop-31tbchv	60543	*	*											
+svchost.exe	3388	UDPV6	desktop-31tbchv	61319	*	*											
+System	4	TCP	desktop-31tbchv.localdomain	netbios-ssn	DESKTOP-31TBCHV	0	LISTENING										
+System	4	TCP	DESKTOP-31TBCHV	microsoft-ds	DESKTOP-31TBCHV	0	LISTENING										
+System	4	TCP	DESKTOP-31TBCHV	wsd	DESKTOP-31TBCHV	0	LISTENING										
+System	4	UDP	desktop-31tbchv.localdomain	netbios-ns	*	*											
+System	4	UDP	desktop-31tbchv.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-31tbchv	microsoft-ds	desktop-31tbchv	0	LISTENING										
+System	4	TCPV6	desktop-31tbchv	wsd	desktop-31tbchv	0	LISTENING										
+wininit.exe	520	TCP	DESKTOP-31TBCHV	49664	DESKTOP-31TBCHV	0	LISTENING										
+wininit.exe	520	TCPV6	desktop-31tbchv	49664	desktop-31tbchv	0	LISTENING										
